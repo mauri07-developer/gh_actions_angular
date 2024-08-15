@@ -44,7 +44,8 @@
                   "maximumError": "4kb"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "baseHref": "/gh_actions_angular/"
             },
             "development": {
               "buildOptimizer": false,
